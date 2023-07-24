@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliftbnc
 - 👀 I’m interested in ios 
-- 🌱 I’m currently learning xcode, swift, uikit, swiftui, GİT , ARKit...
+- 🌱 I’m currently learning Xcode, Swift, UIKit, SwiftUI, Git , ARKit...
 - 📫 You can reach me busracam51@hotmail.com
 
 <!---
